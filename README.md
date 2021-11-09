@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Edith
 
-## Knowledge is of no value unless you put it into practice !  
+## ✨ Knowledge is of no value unless you put it into practice ! ✨
 
 🐍 I discovered programming and loved it!  
 
@@ -18,21 +18,6 @@
 
 
 🔎 Here is my personal [website/portfolio](https://edithbredon.fr)  
-:point_right: my CV  ([Edith-Bredon.pdf](https://github.com/edithbdev/edithbdev/files/6793044/Edith-Bredon.pdf))  
-[@LinkedIn](https://www.linkedin.com/in/edithbredon/)
+:point_right: my CV  ([cv-edith-bredon.pdf](https://github.com/edithbdev/edithbdev/files/7507851/cv-edith-bredon.pdf))  
+💬 [@LinkedIn](https://www.linkedin.com/in/edithbredon/)
 
-
-<!--
-**edithbdev/edithbdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
