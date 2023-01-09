@@ -18,6 +18,5 @@
 
 
 🔎 Here is my personal [website/portfolio](https://edithbredon.fr)  
-:point_right: my CV  ([cv-edith-bredon.pdf](https://github.com/edithbdev/edithbdev/files/7507851/cv-edith-bredon.pdf))  
 💬 [@LinkedIn](https://www.linkedin.com/in/edithbredon/)
 
