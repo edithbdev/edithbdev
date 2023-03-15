@@ -1,22 +1,19 @@
-### Hi there 👋, I'm Edith
+### Bonjour 👋, je m'appelle Edith
 
-## ✨ Knowledge is of no value unless you put it into practice ! ✨
+## ✨ La connaissance n'a aucune valeur si elle n'est pas mise en pratique ! ✨
 
-🐍 I discovered programming and loved it!  
+🐍 J'ai découvert la programmation et j'ai adoré ça !!!  
 
-📚 At O'Clock School I learned : ✨ front-end with HTML/CSS, Bootstrap, Javascript ⚙️ back-end with PHP, object oriented programming, Laravel, SQL, APIs 🤝 Agile methodology with SCRUM, and tools like git or trello  
+📚 J'ai été formé chez O'Clock en 2021 et je me suis spécialisée en Symfony.
 
-🐘 Then I specialised in Symfony  
+🌄 J'explore d'autres langages comme ReactJs, NextJs, Node, Laravel...
 
-🌄 I also explore React in my free time  
+🤓 Je continue d'apprendre tous les jours avec mes projets.  
 
-🤓 I keep on learning everyday with my projects  
+👀 Je suis curieuse de tout ce qui touche au développement web, toujours prête à apprendre et à me challenger !
 
-👀 I'm curious about everything relative to web development, and always eager to learn!
+📫 Comment me joindre :  
 
-📫 How to reach me:  
-
-
-🔎 Here is my personal [website/portfolio](https://edithbredon.fr)  
+🔎 Mon portfolio [website/portfolio](https://edithbredon.fr)  
 💬 [@LinkedIn](https://www.linkedin.com/in/edithbredon/)
 
